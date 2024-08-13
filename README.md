@@ -72,10 +72,10 @@ Predicted the outcomes on the test dataset.
 
 Evaluated the model's performance using accuracy as the metric.
 
-Results
+**Results**
 
 The SVM model achieved a good accuracy score on the test dataset, demonstrating its effectiveness in distinguishing between fraudulent and legitimate transactions. This result highlights the potential of SVM as a robust method for fraud detection in credit card transactions.
 
-Conclusion
+**Conclusion**
 
 This project illustrates the application of SVM for credit card fraud detection, showcasing the process from data preprocessing to model evaluation. The achieved accuracy indicates that the model is capable of making reliable predictions, which is essential for preventing fraud in real-world scenarios.
